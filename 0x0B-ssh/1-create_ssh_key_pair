@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Generates and RSA Key pair
+#Private key file name school, passphrase betty
+ssh-keygen -t rsa -b 4096 -P betty -f school
