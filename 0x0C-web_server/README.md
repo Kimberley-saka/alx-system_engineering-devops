@@ -15,11 +15,11 @@ RFC 7231 (HTTP/1.1)
 RFC 7540 (HTTP/2)
 
 man or help:
-scp
-curl
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+- scp
+- curl
 
+Learning Objectives
+- At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
 1. What is the main role of a web server
 2. What is a child process
