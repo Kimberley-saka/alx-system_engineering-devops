@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# to have a 404 pagewith twxt
+# 404 redirection page
 
 sudo apt-get update
 sudo apt-get install -y nginx
