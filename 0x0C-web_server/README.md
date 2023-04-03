@@ -1,5 +1,4 @@
-Resources
-Read or watch:
+Concepts
 
 - How the web works
 - Nginx
