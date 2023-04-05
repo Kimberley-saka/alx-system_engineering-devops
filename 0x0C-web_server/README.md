@@ -1,36 +1,31 @@
-Resources
-Read or watch:
+Concepts
 
-How the web works
-Nginx
-How to Configure Nginx
-Child process concept page
-Root and sub domain
-HTTP requests
-HTTP redirection
-Not found HTTP response code
-Logs files on Linux
+- How the web works
+- Nginx
+- How to Configure Nginx
+- Child process concept page
+- Root and sub domain
+- HTTP requests
+- HTTP redirection
+-Not found HTTP response code
+- Logs files on Linux
+
 For reference:
-
 RFC 7231 (HTTP/1.1)
 RFC 7540 (HTTP/2)
+
 man or help:
+- scp
+- curl
 
-scp
-curl
 Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-
+- At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 General
-What is the main role of a web server
-What is a child process
-Why web servers usually have a parent process and child processes
-What are the main HTTP requests
-DNS
-What DNS stands for
-What is DNS main role
-DNS Record Types
-A
-CNAME
-TXT
-MX
+1. What is the main role of a web server
+2. What is a child process
+3. Why web servers usually have a parent process and child processes
+4. What are the main HTTP requests
+5. DNS
+6. What DNS stands for
+7. What is DNS main role
+8.DNS Record Types: A, CNAME, TXT and MX
