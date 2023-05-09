@@ -8,9 +8,6 @@ import requests
 import sys
 
 
-subreddit = sys.argv[1]
-
-
 def number_of_subscribers(subreddit):
     url = "https://www.reddit.com/r/{}/about.json".format(subreddit)
     headers = {'User-Agent': 'Mozilla/5.0'}
