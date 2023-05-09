@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 gets number of subscribers of a subreddit
-
+using the reddit api
 """
 
 import requests
